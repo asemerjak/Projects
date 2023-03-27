@@ -1,0 +1,1 @@
+This module was part of much bigger bussiness intelligence project. Other modules weren't developed by me.
